@@ -78,6 +78,16 @@ export default {
           position: {lat: 49.842957, lng: 24.031111},
           tooltip: 'LVIV',
         },
+        {
+          id: 'm5',
+          position: {lat: 48.450001, lng: 34.983334},
+          tooltip: 'DNIPRO',
+        },
+        {
+          id: 'm6',
+          position: {lat: 48.023, lng: 37.80224},
+          tooltip: 'DONETSK',
+        },
       ],
     }
   },
